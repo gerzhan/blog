@@ -9,5 +9,17 @@
         "name": "Nikolay Gerzhan"
     },
     "items": [
+        {
+            "id": "https://gerzhan.github.io/blog/blog-ne-blazh-a-neobhodimost.html",
+            "url": "https://gerzhan.github.io/blog/blog-ne-blazh-a-neobhodimost.html",
+            "title": "Блог не блажь, а необходимость",
+            "author": {
+                "name": "Nikolay Gerzhan"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-21T16:44:19+07:00",
+            "date_modified": "2021-07-21T16:44:19+07:00"
+        }
     ]
 }
